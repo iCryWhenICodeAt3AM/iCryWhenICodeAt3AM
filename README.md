@@ -25,8 +25,8 @@ I'm Rey – the coder behind iCryWhenICodeAt3AM!
 
 - 🔬 **[Thesis-KoiAh](https://github.com/iCryWhenICodeAt3AM/Thesis-KoiAh)** - KoiAh Thesis Development  
 - ☁️ **[aws-serverless-workshop](https://github.com/iCryWhenICodeAt3AM/aws-serverless-workshop)** - AWS Cloud Services Workshop  
-- 🎨 **[LongCioMay-Software-Engineering - Production](https://github.com/iCryWhenICodeAt3AM/Lory)** - Software Engineering II - Production State  
-- 💻 **[LongCioMay-Software-Engineering - Dev](https://github.com/iCryWhenICodeAt3AM/LongCioMay-Software-Engineering)** - Software Engineering II final output  
+- 🎨 **[LongCioMay-Software-Engineering - Production](https://github.com/iCryWhenICodeAt3AM/Lory)** - Software Engineering II - Production  
+- 💻 **[LongCioMay-Software-Engineering - Dev](https://github.com/iCryWhenICodeAt3AM/LongCioMay-Software-Engineering)** - Software Engineering II - Dev
 - 🌱 **[Ka-Halaman](https://github.com/iCryWhenICodeAt3AM/Ka-Halaman)** - Google SolCha' Entry  
 - 🏆 **[ADALCOM-FINALS](https://github.com/iCryWhenICodeAt3AM/ADALCOM-FINALS)** - Final project for Adalcom
 
