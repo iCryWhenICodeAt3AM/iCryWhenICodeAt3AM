@@ -33,7 +33,7 @@ I'm Rey – the coder behind iCryWhenICodeAt3AM!
 ---
 
 ### 📊 GitHub Stats & Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iCryWhenICodeAt3AM&theme=dark&hide_border=true)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iCryWhenICodeAt3AM&show_icons=true&theme=dark&hide_border=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iCryWhenICodeAt3AM&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iCryWhenICodeAt3AM&show_icons=true&theme=dark&hide_border=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iCryWhenICodeAt3AM&layout=compact&theme=dark&hide_border=true)
 
 ---
 
