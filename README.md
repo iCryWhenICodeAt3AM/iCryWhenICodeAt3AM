@@ -25,8 +25,8 @@ I'm Rey – the coder behind iCryWhenICodeAt3AM!
 
 - 🔬 **[Thesis-KoiAh](https://github.com/iCryWhenICodeAt3AM/Thesis-KoiAh)** - KoiAh Thesis Development  
 - ☁️ **[aws-serverless-workshop](https://github.com/iCryWhenICodeAt3AM/aws-serverless-workshop)** - AWS Cloud Services Workshop  
-- 🎨 **[Lory](https://github.com/iCryWhenICodeAt3AM/Lory)** - Forked project  
-- 💻 **[LongCioMay-Software-Engineering](https://github.com/iCryWhenICodeAt3AM/LongCioMay-Software-Engineering)** - Software Engineering II final output  
+- 🎨 **[LongCioMay-Software-Engineering - Production](https://github.com/iCryWhenICodeAt3AM/Lory)** - Software Engineering II - Production State  
+- 💻 **[LongCioMay-Software-Engineering - Dev](https://github.com/iCryWhenICodeAt3AM/LongCioMay-Software-Engineering)** - Software Engineering II final output  
 - 🌱 **[Ka-Halaman](https://github.com/iCryWhenICodeAt3AM/Ka-Halaman)** - Google SolCha' Entry  
 - 🏆 **[ADALCOM-FINALS](https://github.com/iCryWhenICodeAt3AM/ADALCOM-FINALS)** - Final project for Adalcom
 
@@ -43,8 +43,7 @@ I'm Rey – the coder behind iCryWhenICodeAt3AM!
 ---
 
 ### 📬 Contact Me
-📧 **Email:** [reylongnojr@gmail.com](mailto:reylongnojr@gmail.com)  
-🔗 **Socials:** [Facebook](https://www.facebook.com/RDLJ0) | [LinkedIn](https://www.linkedin.com/in/rey-longno-8992a926a/) | [Google Dev](https://g.dev/reyph)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reylongnojr@gmail.com)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/RDLJ0)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rey-longno-8992a926a/)  [![Google Dev](https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google-developers&logoColor=white)](https://g.dev/reyph)
 
 ---
 
