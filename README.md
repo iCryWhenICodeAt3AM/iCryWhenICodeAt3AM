@@ -47,10 +47,7 @@ I'm Rey – the coder behind iCryWhenICodeAt3AM!
 ---
 
 ### 📬 Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reylongnojr@gmail.com)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/RDLJ0)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rey-longno-8992a926a/)  
-[![Google Dev](https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google-developers&logoColor=white)](https://g.dev/reyph)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reylongnojr@gmail.com)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/RDLJ0)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rey-longno-8992a926a/)  [![Google Dev](https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google-developers&logoColor=white)](https://g.dev/reyph)
 
 ---
 
